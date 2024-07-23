@@ -11,18 +11,20 @@ sites:
     url: $ABDR_URL
   - name: PCDVD
     url: https://www.pcdvd.com.tw
+      maxResponseTime: 10000
   - name: PTT
     url: https://term.ptt.cc
   - name: PH
     url: $PH_URL
   - name: Google
     url: https://www.google.com
-    #  maxResponseTime: 1000
+      maxResponseTime: 3000
   - name: Youtube
     url: https://www.youtube.com
-    #  maxResponseTime: 1000
+      maxResponseTime: 3000
   - name: facebook
     url: https://www.facebook.com
+      maxResponseTime: 5000
   - name: Google DNS1
     check: "tcp-ping"
     url: 8.8.8.8
