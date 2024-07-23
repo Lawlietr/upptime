@@ -3,20 +3,33 @@ owner: Lawlietr # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: H
+    url: $AH_URL
+  - name: J
+    url: $AJ_URL
+  - name: BDR
+    url: $ABDR_URL
+  - name: PCDVD
+    url: https://www.pcdvd.com.tw
+  - name: PTT
+    url: https://term.ptt.cc
+  - name: PH
+    url: $PH_URL
+  - name: SP
+    url: $SP_URL
   - name: Google
     url: https://www.google.com
     #  maxResponseTime: 1000
-  - name: J
-    url: $AJ_URL
-  - name: H
-    url: https://h.avpclub.uk
-  - name: PCDVD
-    url: https://www.pcdvd.com.tw
-  - name: Google DNS
+  - name: Youtube
+    url: https://www.youtube.com
+    #  maxResponseTime: 1000
+  - name: facebook
+    url: https://www.facebook.com
+  - name: Google DNS1
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: Cloudflare DNS
+  - name: Cloudflare DNS1
     check: "tcp-ping"
     url: 1.1.1.1
     port: 53
@@ -25,7 +38,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: upptime.avpclub.uk
-  baseUrl: /upptime
+  baseUrl: upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
