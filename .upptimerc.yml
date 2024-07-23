@@ -15,8 +15,6 @@ sites:
     url: https://term.ptt.cc
   - name: PH
     url: $PH_URL
-  - name: SP
-    url: $SP_URL
   - name: Google
     url: https://www.google.com
     #  maxResponseTime: 1000
