@@ -6,6 +6,8 @@ sites:
   - name: Google
     url: https://www.google.com
     #  maxResponseTime: 1000
+  - name: J
+    url: $AJ_URL
   - name: H
     url: https://h.avpclub.uk
   - name: PCDVD
