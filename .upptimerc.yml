@@ -14,6 +14,8 @@ sites:
     maxResponseTime: 10000
   - name: PTT
     url: https://term.ptt.cc
+  - name: NH
+    url: $NH_URL
   - name: PH
     url: $PH_URL
   - name: Google
