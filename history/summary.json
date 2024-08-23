@@ -13,7 +13,7 @@
     "time": 761,
     "timeDay": 596,
     "timeWeek": 750,
-    "timeMonth": 761,
+    "timeMonth": 758,
     "timeYear": 761,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 694,
     "timeDay": 543,
     "timeWeek": 692,
-    "timeMonth": 694,
+    "timeMonth": 693,
     "timeYear": 694,
     "dailyMinutesDown": {}
   },
@@ -44,12 +44,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 535,
     "timeDay": 434,
     "timeWeek": 559,
-    "timeMonth": 535,
+    "timeMonth": 544,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-07-23": 11
@@ -60,18 +60,19 @@
     "url": "https://www.pcdvd.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 799,
     "timeDay": 918,
     "timeWeek": 813,
-    "timeMonth": 799,
+    "timeMonth": 803,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2024-08-23": 0,
       "2024-07-27": 18,
       "2024-07-23": 20
     }
@@ -90,7 +91,7 @@
     "time": 130,
     "timeDay": 253,
     "timeWeek": 135,
-    "timeMonth": 130,
+    "timeMonth": 129,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -108,7 +109,7 @@
     "time": 363,
     "timeDay": 391,
     "timeWeek": 417,
-    "timeMonth": 363,
+    "timeMonth": 362,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
@@ -126,7 +127,7 @@
     "time": 1751,
     "timeDay": 1792,
     "timeWeek": 1798,
-    "timeMonth": 1751,
+    "timeMonth": 1761,
     "timeYear": 1751,
     "dailyMinutesDown": {}
   },
@@ -144,7 +145,7 @@
     "time": 92,
     "timeDay": 89,
     "timeWeek": 102,
-    "timeMonth": 92,
+    "timeMonth": 94,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
@@ -162,7 +163,7 @@
     "time": 237,
     "timeDay": 316,
     "timeWeek": 238,
-    "timeMonth": 237,
+    "timeMonth": 234,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -180,7 +181,7 @@
     "time": 490,
     "timeDay": 465,
     "timeWeek": 523,
-    "timeMonth": 490,
+    "timeMonth": 508,
     "timeYear": 490,
     "dailyMinutesDown": {}
   },
@@ -216,7 +217,7 @@
     "time": 10,
     "timeDay": 9,
     "timeWeek": 5,
-    "timeMonth": 10,
+    "timeMonth": 11,
     "timeYear": 10,
     "dailyMinutesDown": {}
   }
