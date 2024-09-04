@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 789,
     "timeDay": 617,
     "timeWeek": 758,
@@ -101,9 +101,9 @@
     "url": "$NH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 380,
     "timeMonth": 379,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   },
   {
     "name": "PH",
