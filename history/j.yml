@@ -1,7 +1,7 @@
 url: $AJ_URL
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2024-11-03T10:39:29.887Z
+status: down
+code: 521
+responseTime: 230
+lastUpdated: 2024-11-03T10:52:25.921Z
 startTime: 2024-07-23T07:08:29.356Z
 generator: Upptime <https://github.com/upptime/upptime>
