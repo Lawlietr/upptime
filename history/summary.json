@@ -45,18 +45,20 @@
     "url": "$ABDR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 421,
-    "timeWeek": 574,
-    "timeMonth": 575,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 553,
+    "timeWeek": 588,
+    "timeMonth": 578,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "PCDVD",
