@@ -90,18 +90,20 @@
     "url": "https://term.ptt.cc",
     "icon": "https://icons.duckduckgo.com/ip3/term.ptt.cc.ico",
     "slug": "ptt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 135,
-    "timeWeek": 251,
-    "timeMonth": 195,
+    "timeDay": 128,
+    "timeWeek": 234,
+    "timeMonth": 193,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-07": 0
+    }
   },
   {
     "name": "NH",
@@ -110,7 +112,7 @@
     "slug": "nh",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "88.44%",
+    "uptimeDay": "94.49%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.09%",
