@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/term.ptt.cc.ico",
     "slug": "ptt",
     "status": "down",
-    "uptime": "79.74%",
+    "uptime": "79.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.71%",
-    "uptimeYear": "79.74%",
+    "uptimeMonth": "29.64%",
+    "uptimeYear": "79.77%",
     "time": 150,
     "timeDay": 98,
     "timeWeek": 93,
@@ -149,9 +149,9 @@
     "url": "$NH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -161,6 +161,7 @@
     "timeMonth": 422,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2025-01-22": 0,
       "2025-01-16": 20
     }
   },
@@ -189,18 +190,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 117,
     "timeWeek": 174,
     "timeMonth": 123,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2025-01-22": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Youtube",
