@@ -1,7 +1,7 @@
 url: $ABDR_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-01T10:12:00.897Z
+status: up
+code: 200
+responseTime: 1067
+lastUpdated: 2025-03-01T10:32:14.714Z
 startTime: 2024-07-23T07:34:02.739Z
 generator: Upptime <https://github.com/upptime/upptime>
