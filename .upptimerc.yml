@@ -12,12 +12,6 @@ sites:
   - name: PCDVD
     url: https://www.pcdvd.com.tw
     maxResponseTime: 10000
-  - name: PTT
-    url: https://term.ptt.cc
-  - name: NH
-    url: $NH_URL
-  - name: PH
-    url: $PH_URL
   - name: Google
     url: https://www.google.com
     maxResponseTime: 3000
