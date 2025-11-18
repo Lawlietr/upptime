@@ -1,7 +1,7 @@
 url: $AH_URL
-status: down
-code: 500
-responseTime: 123
-lastUpdated: 2025-11-18T11:44:49.024Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2025-11-18T12:57:21.265Z
 startTime: 2024-07-23T06:28:02.695Z
 generator: Upptime <https://github.com/upptime/upptime>
