@@ -48,7 +48,7 @@
     "timeMonth": 704,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-12-19": 815,
+      "2025-12-19": 833,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -433,19 +433,19 @@
     "url": "https://www.youtube.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "youtube",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 5098,
-    "timeWeek": 1469,
-    "timeMonth": 599,
+    "timeDay": 3460,
+    "timeWeek": 1326,
+    "timeMonth": 586,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-12-19": 0
+      "2025-12-19": 18
     }
   },
   {
