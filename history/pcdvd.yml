@@ -1,7 +1,7 @@
 url: https://www.pcdvd.com.tw
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2025-12-18T23:24:52.285Z
+status: down
+code: 502
+responseTime: 131
+lastUpdated: 2025-12-19T11:55:31.671Z
 startTime: 2024-07-23T06:28:03.768Z
 generator: Upptime <https://github.com/upptime/upptime>
