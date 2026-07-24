@@ -39,7 +39,7 @@
     "timeMonth": 556,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2026-07-24": 1192,
+      "2026-07-24": 1258,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -441,17 +441,17 @@
     "url": "https://www.pcdvd.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
-    "status": "down",
-    "uptime": "97.21%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "97.20%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "94.70%",
-    "time": 2079,
-    "timeDay": 661,
-    "timeWeek": 786,
-    "timeMonth": 1298,
-    "timeYear": 2256,
+    "uptimeYear": "94.69%",
+    "time": 2089,
+    "timeDay": 2560,
+    "timeWeek": 1405,
+    "timeMonth": 1452,
+    "timeYear": 2266,
     "dailyMinutesDown": {
       "2025-07-30": 23,
       "2025-08-05": 30,
@@ -490,7 +490,7 @@
       "2026-06-08": 1440,
       "2026-06-25": 794,
       "2026-06-24": 608,
-      "2026-07-24": 0
+      "2026-07-24": 66
     }
   },
   {
