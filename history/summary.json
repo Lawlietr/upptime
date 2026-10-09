@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j",
     "status": "down",
-    "uptime": "32.40%",
+    "uptime": "32.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -42,7 +42,7 @@
     "timeMonth": 555,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-10-09": 249,
+      "2026-10-09": 1394,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -414,17 +414,17 @@
     "url": "$ABDR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bdr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.81%",
-    "time": 624,
-    "timeDay": 584,
-    "timeWeek": 562,
-    "timeMonth": 560,
-    "timeYear": 621,
+    "time": 623,
+    "timeDay": 321,
+    "timeWeek": 499,
+    "timeMonth": 546,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-11-18": 139,
       "2026-07-26": 58,
@@ -432,7 +432,8 @@
       "2026-08-20": 42,
       "2026-08-21": 42,
       "2026-09-04": 310,
-      "2026-09-28": 374
+      "2026-09-28": 374,
+      "2026-10-09": 0
     }
   },
   {
