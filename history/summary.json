@@ -11,7 +11,7 @@
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.76%",
     "time": 777,
-    "timeDay": 630,
+    "timeDay": 507,
     "timeWeek": 597,
     "timeMonth": 634,
     "timeYear": 705,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j",
     "status": "down",
-    "uptime": "32.20%",
+    "uptime": "32.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 640,
-    "timeDay": 301,
+    "timeDay": 459,
     "timeWeek": 472,
     "timeMonth": 542,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2026-10-14": 189,
+      "2026-10-15": 34,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -405,8 +406,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   },
   {
@@ -421,7 +421,7 @@
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.70%",
     "time": 676,
-    "timeDay": 479,
+    "timeDay": 404,
     "timeWeek": 3454,
     "timeMonth": 1311,
     "timeYear": 688,
@@ -442,17 +442,17 @@
     "url": "https://www.pcdvd.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
-    "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.86%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "95.24%",
-    "time": 2551,
-    "timeDay": 2433,
-    "timeWeek": 3129,
-    "timeMonth": 2813,
-    "timeYear": 2396,
+    "time": 2549,
+    "timeDay": 386,
+    "timeWeek": 2901,
+    "timeMonth": 2739,
+    "timeYear": 2395,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-12-15": 704,
@@ -495,7 +495,8 @@
       "2026-08-26": 593,
       "2026-09-11": 126,
       "2026-10-10": 206,
-      "2026-10-11": 312
+      "2026-10-11": 312,
+      "2026-10-15": 0
     }
   },
   {
@@ -513,7 +514,7 @@
     "timeDay": 79,
     "timeWeek": 99,
     "timeMonth": 101,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-10-18": 23,
       "2025-10-19": 21,
@@ -544,10 +545,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 284,
+    "timeDay": 285,
     "timeWeek": 273,
     "timeMonth": 275,
-    "timeYear": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2025-12-19": 18
     }
@@ -564,10 +565,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 330,
+    "timeDay": 344,
     "timeWeek": 374,
     "timeMonth": 391,
-    "timeYear": 480,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-12-04": 17
     }
