@@ -14,7 +14,7 @@
     "timeDay": 684,
     "timeWeek": 691,
     "timeMonth": 644,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-11-18": 151,
       "2026-01-04": 256,
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j",
     "status": "down",
-    "uptime": "32.06%",
+    "uptime": "32.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -40,9 +40,9 @@
     "timeDay": 203,
     "timeWeek": 464,
     "timeMonth": 526,
-    "timeYear": 636,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2026-10-17": 1289,
+      "2026-10-17": 1401,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -442,17 +442,17 @@
     "url": "https://www.pcdvd.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "85.99%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "95.20%",
-    "time": 2561,
-    "timeDay": 2519,
-    "timeWeek": 3026,
-    "timeMonth": 2850,
-    "timeYear": 2404,
+    "status": "up",
+    "uptime": "97.02%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "95.17%",
+    "time": 2571,
+    "timeDay": 3452,
+    "timeWeek": 3197,
+    "timeMonth": 2958,
+    "timeYear": 2419,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-12-15": 704,
@@ -497,7 +497,7 @@
       "2026-10-10": 206,
       "2026-10-11": 312,
       "2026-10-15": 46,
-      "2026-10-17": 201
+      "2026-10-17": 314
     }
   },
   {
@@ -515,7 +515,7 @@
     "timeDay": 133,
     "timeWeek": 92,
     "timeMonth": 105,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-10-18": 23,
       "2025-10-19": 21,
@@ -549,7 +549,7 @@
     "timeDay": 260,
     "timeWeek": 285,
     "timeMonth": 283,
-    "timeYear": 345,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2025-12-19": 18
     }
@@ -569,7 +569,7 @@
     "timeDay": 357,
     "timeWeek": 359,
     "timeMonth": 395,
-    "timeYear": 481,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-12-04": 17
     }
