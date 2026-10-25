@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "j",
     "status": "down",
-    "uptime": "31.77%",
+    "uptime": "31.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -42,7 +42,7 @@
     "timeMonth": 534,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-10-25": 168,
+      "2026-10-25": 1347,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -442,17 +442,17 @@
     "url": "https://www.pcdvd.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcdvd.com.tw.ico",
     "slug": "pcdvd",
-    "status": "up",
+    "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.65%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "95.07%",
-    "time": 2547,
-    "timeDay": 1425,
-    "timeWeek": 2382,
-    "timeMonth": 2883,
-    "timeYear": 2443,
+    "time": 2540,
+    "timeDay": 858,
+    "timeWeek": 2208,
+    "timeMonth": 2826,
+    "timeYear": 2439,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-12-15": 704,
@@ -499,7 +499,8 @@
       "2026-10-15": 46,
       "2026-10-17": 314,
       "2026-10-18": 33,
-      "2026-10-22": 539
+      "2026-10-22": 539,
+      "2026-10-25": 0
     }
   },
   {
@@ -517,7 +518,7 @@
     "timeDay": 65,
     "timeWeek": 85,
     "timeMonth": 93,
-    "timeYear": 213,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2025-10-28": 25,
       "2025-10-29": 40,
